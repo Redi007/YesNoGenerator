@@ -61,11 +61,4 @@ A visually dynamic yes/no decision-making web app with multiple animated themes,
 
 ## License
 
-MIT License - feel free to modify and redistribute  
-
----
-
-**Live Demo**: [Host on GitHub Pages](https://your-username.github.io/themed-decision-maker)  
-**Contributions Welcome**: Add new themes or animation effects!  
-
-Let me know if you'd like me to expand any section! 🎨
+MIT License - feel free to modify and redistribute
