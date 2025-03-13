@@ -55,7 +55,24 @@ A visually dynamic yes/no decision-making web app with multiple animated themes,
 
 ## Screenshots
 
-*(Add screenshots here showing different themes)*  
+### Matrix Theme
+![Matrix Theme](https://github.com/Redi007/YesNoGenerator/blob/main/images/Matrix.png?raw=true)
+
+### Blossom Theme
+![Blossom Theme](https://github.com/Redi007/YesNoGenerator/blob/main/images/Blossom.png?raw=true)
+
+### Modern Theme
+![Modern Theme](https://github.com/Redi007/YesNoGenerator/blob/main/images/Modern.png?raw=true)
+
+### Dark Mode Theme
+![Dark Mode Theme](https://github.com/Redi007/YesNoGenerator/blob/main/images/Dark.png?raw=true)
+
+### Peach Theme
+![Peach Theme](https://github.com/Redi007/YesNoGenerator/blob/main/images/Peach.png?raw=true)
+
+### Skyblue Theme
+![Skyblue Theme](https://github.com/Redi007/YesNoGenerator/blob/main/images/Skyblue.png?raw=true)
+
 
 ---
 
