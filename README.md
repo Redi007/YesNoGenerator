@@ -78,4 +78,4 @@ A visually dynamic yes/no decision-making web app with multiple animated themes,
 
 ## License
 
-MIT License - feel free to modify and redistribute
+GPL-3.0 License
